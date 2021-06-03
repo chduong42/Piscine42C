@@ -1,0 +1,6 @@
+Credentials cache: API:4A85A9AC-5FC8-4427-930C-66535B375C22
+        Principal: chduong@42.FR
+
+  Issued                Expires               Principal
+Feb  1 14:46:11 2021  Feb  8 14:46:11 2021  krbtgt/42.FR@42.FR
+Feb  1 14:46:12 2021  Feb  8 14:46:11 2021  HTTP/student-storage-2.42.fr@42.FR
